@@ -1,0 +1,5 @@
+name: Vehicles
+version: 1.0
+author: _Ug
+description: Vehicles in Minecraft
+main: vehicle.core.VehicleCore
